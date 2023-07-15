@@ -8,12 +8,13 @@
 ## Языки программирования
 ![C++](img/cpp.png)
 ![Python](img/python.png)
-![JavaScript](img/javascript.png)
+![JavaScript](img/JS.png)
 ![Java](img/java.png)
 ![Mojo](img/mojo.png)
 ![PHP](img/php.png)
-![CSS](img/css.png)
+![CSS](img/CSS.png)
 ![SQL](img/sql.png)
+![HTML](img/Html.png)
 
 ## Discord боты
 Я имею опыт в разработке Discord-ботов любой сложности на языке Python. С радостью создаю ботов, которые помогают автоматизировать задачи, улучшают опыт пользователей и вносят новые функциональные возможности.
