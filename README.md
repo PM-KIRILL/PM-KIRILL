@@ -21,4 +21,6 @@
 - Email: [pm.mail.kirill2546@gmail.com](mailto:pm.mail.kirill2546@gmail.com)
 - Discord: PM-Kirill
 
-Буду рад пообщаться и сотрудничать с вами! 😊
+<a href="https://github.com/PM-KIRILL"> 
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PM-KIRILL&title_color=fff&text_color=fff&icon_color=ffff00&bg_color=1a1c1f" /> 
+ </a>
