@@ -8,10 +8,10 @@
 **FAQ:**
 - I create Discord bots.
 - I work with 3 hosting services and have created my own.
-- [PM-Nodes]
-- [CoreNodes]
-- [Baget-inc]
-- [Deplos]
+- [PM-Nodes]()
+- [CoreNodes]()
+- [Baget-inc]()
+- [Deplos]()
 
 - I'm also passionate about Arduino and working on a Phishing tool called EspPortal v3 [Progress: ~40%].
 
