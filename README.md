@@ -1,11 +1,11 @@
-###Main:
+### Main:
 - **Nickname:** PM-Kirill
 - **Name:** Kirill
 - **Birthday:** 30 June
 - **Languages:** Russian and English
 - **Country:** Belarus
 
-###FAQ:
+### FAQ:
 - I create Discord bots.
 - I work with 3 hosting services and have created my own.
 - [PM-Nodes]()
@@ -15,7 +15,7 @@
 
 - I'm also passionate about Arduino and working on a Phishing tool called EspPortal v3 [Progress: ~40%].
 
-###My skills:
+### My skills:
 **Languages:**
 - [Arduino](https://www.arduino.cc/)
 - [Python](https://www.python.org)
