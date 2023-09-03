@@ -11,7 +11,40 @@
 - I'm also passionate about Arduino and working on a Phishing tool called EspPortal v3 [Progress: ~40%].
 
 **My skills:**
-- (Here you can list your skills, such as programming languages and operating systems you work with)
+###Languages:
+- [Arduino](https://www.arduino.cc/)
+- [Python](https://www.python.org)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Node.js](https://nodejs.org)
+- [C++](https://www.w3schools.com/cpp/)
+- [Java](https://www.java.com)
+- [Bash](https://www.gnu.org/software/bash/)
+- [C#](https://www.w3schools.com/cs/)
+- [Kotlin](https://kotlinlang.org)
+###Web:
+- [PHP](https://www.php.net)
+- [HTML5](https://www.w3.org/html/)
+- [CSS3](https://www.w3schools.com/css/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Nginx](https://www.nginx.com)
+- [Figma](https://www.figma.com/)
+###OS:
+- [Linux](https://www.linux.org/)
+- [Android](https://developer.android.com)
+###Devops:
+- [Git](https://git-scm.com/)
+- [Oracle](https://www.oracle.com/)
+- [Google Cloud](https://cloud.google.com)
+- [Heroku](https://heroku.com)
+###Databases:
+- [MongoDB](https://www.mongodb.com/)
+- [MySQL](https://www.mysql.com/)
+- [PostgreSQL](https://www.postgresql.org)
+###Programs:
+- [Photoshop](https://www.photoshop.com/en)
+- [Blender](https://www.blender.org/)
+
 
 ### GitHub Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=pm-kirill&label=You%20Are%20Visitor%20Number:&color=ffdd00&style=flat)
@@ -21,35 +54,6 @@
 - [Dev.to](https://dev.to/pm-kirill)
 - [YouTube](https://www.youtube.com/c/pm-kirill)
 - [Discord](https://discord.gg/https://discordapp.com/users/1081189420780240917/)
-
-### Languages and Tools:
-- [Android](https://developer.android.com)
-- [Arduino](https://www.arduino.cc/)
-- [Bash](https://www.gnu.org/software/bash/)
-- [Blender](https://www.blender.org/)
-- [C++](https://www.w3schools.com/cpp/)
-- [C#](https://www.w3schools.com/cs/)
-- [CSS3](https://www.w3schools.com/css/)
-- [Figma](https://www.figma.com/)
-- [Google Cloud](https://cloud.google.com)
-- [Git](https://git-scm.com/)
-- [Heroku](https://heroku.com)
-- [HTML5](https://www.w3.org/html/)
-- [Java](https://www.java.com)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Kotlin](https://kotlinlang.org)
-- [Linux](https://www.linux.org/)
-- [MongoDB](https://www.mongodb.com/)
-- [MySQL](https://www.mysql.com/)
-- [Nginx](https://www.nginx.com)
-- [Node.js](https://nodejs.org)
-- [Oracle](https://www.oracle.com/)
-- [Photoshop](https://www.photoshop.com/en)
-- [PHP](https://www.php.net)
-- [PostgreSQL](https://www.postgresql.org)
-- [Python](https://www.python.org)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
 
 ### Support:
 [Buy Me a Coffee](https://www.buymeacoffee.com/PM-Kirill)
