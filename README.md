@@ -26,6 +26,7 @@
 - [Bash](https://www.gnu.org/software/bash/)
 - [C#](https://www.w3schools.com/cs/)
 - [Kotlin](https://kotlinlang.org)
+
 **Web:**
 - [PHP](https://www.php.net)
 - [HTML5](https://www.w3.org/html/)
@@ -34,18 +35,22 @@
 - [React](https://reactjs.org/)
 - [Nginx](https://www.nginx.com)
 - [Figma](https://www.figma.com/)
+
 **OS:**
 - [Linux](https://www.linux.org/)
 - [Android](https://developer.android.com)
+
 **Devops:**
 - [Git](https://git-scm.com/)
 - [Oracle](https://www.oracle.com/)
 - [Google Cloud](https://cloud.google.com)
 - [Heroku](https://heroku.com)
+
 **Databases:**
 - [MongoDB](https://www.mongodb.com/)
 - [MySQL](https://www.mysql.com/)
 - [PostgreSQL](https://www.postgresql.org)
+
 **Programs:**
 - [Photoshop](https://www.photoshop.com/en)
 - [Blender](https://www.blender.org/)
