@@ -6,14 +6,14 @@
 - **Country:** Belarus
 
 ### FAQ:
-- I create Discord bots.
-- I work with 3 hosting services and have created my own.
+- Я создаю Discord ботов.
+- Ещё я разработчик на 3-х хостингах и также создал свой, под названием PM-Nodes.
 - [PM-Nodes]()
 - [CoreNodes]()
 - [Baget-inc]()
 - [Deplos]()
 
-- I'm also passionate about Arduino and working on a Phishing tool called EspPortal v3 [Progress: ~40%].
+- Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
 ### My skills:
 
