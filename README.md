@@ -16,44 +16,45 @@
 - I'm also passionate about Arduino and working on a Phishing tool called EspPortal v3 [Progress: ~40%].
 
 ### My skills:
-**Languages:**
-- [Arduino](https://www.arduino.cc/)
-- [Python](https://www.python.org)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [Node.js](https://nodejs.org)
-- [C++](https://www.w3schools.com/cpp/)
-- [Java](https://www.java.com)
-- [Bash](https://www.gnu.org/software/bash/)
-- [C#](https://www.w3schools.com/cs/)
-- [Kotlin](https://kotlinlang.org)
 
-**Web:**
-- [PHP](https://www.php.net)
-- [HTML5](https://www.w3.org/html/)
-- [CSS3](https://www.w3schools.com/css/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [Nginx](https://www.nginx.com)
-- [Figma](https://www.figma.com/)
+#### Languages:
+- [![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)
+- [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+- [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
+- [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
+- [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
+- [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
+- [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
+- [![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)](https://kotlinlang.org)
 
-**OS:**
-- [Linux](https://www.linux.org/)
-- [Android](https://developer.android.com)
+#### Web:
+- [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
+- [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+- [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
+- [![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
+- [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
+- [![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)](https://www.nginx.com)
+- [![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
 
-**Devops:**
-- [Git](https://git-scm.com/)
-- [Oracle](https://www.oracle.com/)
-- [Google Cloud](https://cloud.google.com)
-- [Heroku](https://heroku.com)
+#### OS:
+- [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+- [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
 
-**Databases:**
-- [MongoDB](https://www.mongodb.com/)
-- [MySQL](https://www.mysql.com/)
-- [PostgreSQL](https://www.postgresql.org)
+#### Devops:
+- [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+- [![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)](https://www.oracle.com/)
+- [![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)](https://cloud.google.com)
+- [![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)](https://heroku.com)
 
-**Programs:**
-- [Photoshop](https://www.photoshop.com/en)
-- [Blender](https://www.blender.org/)
+#### Databases:
+- [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
+- [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
+- [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
+
+#### Programs:
+- [![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/en)
+- [![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)](https://www.blender.org/)
 
 ### Connect with me:
 - [Dev.to](https://dev.to/pm-kirill)
