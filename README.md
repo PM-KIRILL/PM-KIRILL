@@ -61,5 +61,10 @@
 - [YouTube](https://www.youtube.com/c/pm-kirill)
 - [Discord](https://discord.gg/https://discordapp.com/users/1081189420780240917/)
 
+Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a free license for their excellent Webstorm IDE.    
+<a href="https://www.jetbrains.com/?from=inputmask">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="Jetbrains" width="100">
+</a>
+
 ### Support:
 [Buy Me a Coffee](https://www.buymeacoffee.com/PM-Kirill)
