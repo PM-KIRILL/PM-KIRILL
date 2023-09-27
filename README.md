@@ -16,30 +16,13 @@
 - Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
 ### My skills:
-
-#### Languages:
-- [![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)](https://www.arduino.cc/)
-- [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-- [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)
-- [![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)](https://www.w3schools.com/cpp/)
-- [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)
-- [![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
-- [![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
-- [![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)](https://kotlinlang.org)
-
-#### Web:
-- [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
-- [![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
-- [![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/)
-- [![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
-- [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/)
-- [![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)](https://www.nginx.com)
-- [![Figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com/)
-
-#### OS:
-- [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-- [![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com)
+## Skills
+At the beginning of 2020, I began to learn programming on my own in JavaScript, which I still write. At the end of 2021, I started learning Python minimally, but I haven't written anything in it yet. Somewhere since March 2022, I decided to learn TypeScript more and now I am actively engaged in this.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,aws,blender,bootstrap,cloudflare,css,discord,bots,django,express,figma,firebase,flask,git,github,githubactions,go,heroku,html,idea,instagram,js,jquery,linux,md,mongodb,mysql,nextjs,nodejs,nuxtjs,ps,php,postgres,postman,pr,pug,py,react,replit,stackoverflow,styledcomponents,supabase,sentry,svg,tailwind,twitter,ts,vercel,vscode,vue,wordpress,workers,xd&perline=10" />
+  </a>
+</p>
 
 #### Devops:
 - [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg)](https://git-scm.com/)
