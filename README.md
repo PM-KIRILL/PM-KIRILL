@@ -15,6 +15,8 @@
 
 - Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
+<img src="https://cdn.discordapp.com/attachments/1085197600057204787/1156665348280553583/computer-illustration.png?ex=6515cc0c&is=65147a8c&hm=e69b598b92ecffbbc7a2472c3c96b25f9087a4171257f674adb88311c705453f&" alt="Code" width="100">
+
 ### My skills:
 <p align="center">
   <a href="https://skillicons.dev">
