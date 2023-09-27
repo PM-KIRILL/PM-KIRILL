@@ -23,22 +23,6 @@ At the beginning of 2020, I began to learn programming on my own in JavaScript, 
     <img src="https://skillicons.dev/icons?i=ae,androidstudio,atom,au,aws,blender,bootstrap,cloudflare,css,discord,bots,django,express,figma,firebase,flask,git,github,githubactions,go,heroku,html,idea,instagram,js,jquery,linux,md,mongodb,mysql,nextjs,nodejs,nuxtjs,ps,php,postgres,postman,pr,pug,py,react,replit,stackoverflow,styledcomponents,supabase,sentry,svg,tailwind,twitter,ts,vercel,vscode,vue,wordpress,workers,xd&perline=10" />
   </a>
 </p>
-
-#### Devops:
-- [![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-- [![Oracle](https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg)](https://www.oracle.com/)
-- [![Google Cloud](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg)](https://cloud.google.com)
-- [![Heroku](https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg)](https://heroku.com)
-
-#### Databases:
-- [![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)](https://www.mongodb.com/)
-- [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
-- [![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)](https://www.postgresql.org)
-
-#### Programs:
-- [![Photoshop](https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg)](https://www.photoshop.com/en)
-- [![Blender](https://download.blender.org/branding/community/blender_community_badge_white.svg)](https://www.blender.org/)
-
 ### Connect with me:
 - [Dev.to](https://dev.to/pm-kirill)
 - [YouTube](https://www.youtube.com/c/pm-kirill)
