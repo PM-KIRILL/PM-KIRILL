@@ -20,7 +20,7 @@
 ### My skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,atom,au,aws,blender,cloudflare,css,discord,django,figma,flask,git,github,githubactions,go,heroku,html,idea,js,jquery,linux,md,mongodb,mysql,nodejs,ps,php,pr,py,react,replit,svg,ts,vercel,vscode,vue,xd&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,atom,au,aws,blender,cloudflare,css,discord,django,figma,flask,git,github,githubactions,go,heroku,html,idea,js,jquery,linux,md,mongodb,mysql,nodejs,ps,php,pr,py,react,replit,svg,ts,vercel,vscode,vue,&perline=10" />
   </a>
 </p>
 ### Connect with me:
