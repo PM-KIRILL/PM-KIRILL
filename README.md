@@ -24,7 +24,7 @@
   </a>
 </p>
 ### Connect with me:
-- [Dev.to](https://dev.to/pm-kirill)
+- [Dev.to](https://dev.to/pmkirill)
 - [YouTube](https://www.youtube.com/c/pm-kirill)
 - [Discord](https://discord.gg/https://discordapp.com/users/1081189420780240917/)
 
