@@ -7,7 +7,7 @@
 
 ### FAQ:
 - Я создаю Discord ботов.
-- Ещё я разработчик на 3-х хостингах и также создал свой, под названием PM-Nodes.
+- Ещё я разработчик на 3-х хостингах и также создал свой, под названием PM-Nodes и CoreNodes.
 - [PM-Nodes](https://discord.gg/QxKUVvC98Z)
 - [CoreNodes](https:corenodes.ru)
 - [Baget-inc](baget-inc.online)
