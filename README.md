@@ -8,10 +8,10 @@
 ### FAQ:
 - Я создаю Discord ботов.
 - Ещё я разработчик на 3-х хостингах и также создал свой, под названием PM-Nodes.
-- [PM-Nodes]()
-- [CoreNodes]()
-- [Baget-inc]()
-- [Deplos]()
+- [PM-Nodes](https://discord.gg/QxKUVvC98Z)
+- [CoreNodes](https:corenodes.ru)
+- [Baget-inc](baget-inc.online)
+- [Deplos](Закрыт)
 
 - Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
