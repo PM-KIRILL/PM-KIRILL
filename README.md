@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,atom,au,aws,blender,cloudflare,css,discord,django,figma,flask,git,github,githubactions,go,heroku,html,idea,js,jquery,linux,md,mongodb,mysql,nodejs,ps,php,pr,py,react,replit,svg,ts,vercel,vscode,vue,&perline=10" />
   </a>
 </p>
-<p align="center"><img src="https://myreadme.vercel.app/api/embed/xdearboy?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
+<p align="center"><img src="https://myreadme.vercel.app/api/embed/PM-KIRILL?panels=userstatistics,toplanguages,commitgraph,toprepositories"/></p>
 ### Connect with me:
 - [Dev.to](https://dev.to/pmkirill)
 - [YouTube](https://www.youtube.com/c/pm-kirill)
