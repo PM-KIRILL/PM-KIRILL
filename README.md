@@ -37,7 +37,7 @@ Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pm-kirill&show_icons=true&theme=dark)](https://github.com/pm-kirill)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Aryanvbw/count.svg" />
+  <img src="https://profile-counter.glitch.me/PM-Kirill/count.svg" />
 </p>
 
 ### Support:
