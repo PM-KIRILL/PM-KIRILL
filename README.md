@@ -34,5 +34,11 @@ Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="Jetbrains" width="100">
 </a>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pm-kirill&show_icons=true&theme=dark)](https://github.com/pm-kirill)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Aryanvbw/count.svg" />
+</p>
+
 ### Support:
 [Buy Me a Coffee](https://www.buymeacoffee.com/PM-Kirill)
