@@ -9,7 +9,7 @@
 - Я создаю Discord ботов.
 - Ещё я разработчик на 3-х хостингах и также создал свой, под названием PM-Nodes и CoreNodes.
 - [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Почти закрыт)
-- [CoreNodes](https://corenodes.host)
+- [CoreNodes](https://corenodes.host) (Заморожен😢)
 - [Baget-inc](https://baget-inc.online) (Закрыт)
 - [Deplos]() (Закрыт)
 
