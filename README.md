@@ -34,10 +34,8 @@ Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="Jetbrains" width="100">
 </a>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pm-kirill&show_icons=true&theme=dark)](https://github.com/pm-kirill)
-<p align="center"> 
-  Количество просмотров<br>
-  <img src="https://profile-counter.glitch.me/PM-Kirill/count.svg" />
+<p align="left">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wwplzbvn26xo6msimnxpmzrvou&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wwplzbvn26xo6msimnxpmzrvou&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)">
 </p>
 
 ### Support:
