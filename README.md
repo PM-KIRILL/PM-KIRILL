@@ -44,5 +44,3 @@ Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a
 
 ### Support:
 [Buy Me a Coffee](https://www.buymeacoffee.com/PM-Kirill)
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
