@@ -23,7 +23,11 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PM-Kirill&theme=merko)](https://github.com/PM-Kirill)
+<td>
+                <a href="https://github.com/PM-KIRILL">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PM-KIRILL&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+                </a>
+            </td>
 
 ### Connect with me:
 - [Dev.to](https://dev.to/pmkirill)
