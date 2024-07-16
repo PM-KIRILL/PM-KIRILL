@@ -15,7 +15,8 @@
 
 - Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
-### My skills:
+<h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank"> 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,androidstudio,arduino,atom,au,aws,blender,cloudflare,css,discord,django,figma,flask,git,github,githubactions,go,heroku,html,idea,js,jquery,linux,md,mongodb,mysql,nodejs,ps,php,pr,py,react,replit,svg,ts,vercel,vscode,vue,&perline=10" />
