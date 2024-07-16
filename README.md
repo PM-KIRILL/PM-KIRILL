@@ -45,4 +45,4 @@ Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a
 ### Support:
 [Buy Me a Coffee](https://www.buymeacoffee.com/PM-Kirill)
 
-![footer](WEBP/footer.webp)
+![footer](footer.webp)
