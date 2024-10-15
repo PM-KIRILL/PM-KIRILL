@@ -14,10 +14,10 @@
 ### FAQ
 - 🤖 **I create Discord bots**.
 - 💻 **I'm also a developer on 3 hosting platforms**, and I created my own ones: PM-Nodes and CoreNodes.
-  - [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Almost closed)
+  - [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Closed)
   - [CoreNodes](https://corenodes.host) (Frozen 😢)
   - [Baget-inc](https://baget-inc.online) (Closed)
-  - [Deplos]() (Closed)
+  - [Deplos](https://deplos.com) (Open)
 - 🛠️ I also enjoy working with **Arduino** and developing a phishing tool called **EspPortal v3**. [Progress: ~40%].
 
 ---
