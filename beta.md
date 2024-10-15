@@ -3,69 +3,69 @@
 ## Programming Languages
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,java,perl,python,rust,typescript,php,cpp,css,html,lua,kotlin,c" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,java,perl,python,rust,typescript,php,cpp,css,html,lua,kotlin,c" width="60" height="60"/>
   </a>
 </p>
 
 ## IDEs and Code Editors
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,replit,visualstudio,vscode,notepadpp,neovim,atom,androidstudio" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=idea,pycharm,replit,visualstudio,vscode,notepadpp,neovim,atom,androidstudio" width="60" height="60"/>
   </a>
 </p>
 
 ## Package Managers and Build Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,pnpm,yarn,vercel,workers,vite,terraform" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=npm,pnpm,yarn,vercel,workers,vite,terraform" width="60" height="60"/>
   </a>
 </p>
 
 ## Frameworks and Libraries
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nuxtjs,react,vuejs,threejs,tailwindcss,django,dotnet,electron,htmx" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nuxtjs,react,vuejs,threejs,tailwindcss,django,dotnet,electron,htmx" width="60" height="60"/>
   </a>
 </p>
 
 ## Databases
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,oracle,mongodb,mysql,redis" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,sqlite,oracle,mongodb,mysql,redis" width="60" height="60"/>
   </a>
 </p>
 
 ## Cloud and DevOps Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,gcp,docker,kubernetes,jenkins,githubactions,githubpages,terraform,ngrok,heroku" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=azure,gcp,docker,kubernetes,jenkins,githubactions,githubpages,terraform,ngrok,heroku" width="60" height="60"/>
   </a>
 </p>
 
 ## Operating Systems and System Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,arch,debian,linux,kali,gnome,kde,proxmox,raspberrypi,wsl,terminal" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu,windows,arch,debian,linux,kali,gnome,kde,proxmox,raspberrypi,wsl,terminal" width="60" height="60"/>
   </a>
 </p>
 
 ## Version Control and Collaboration
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,opensource,discord,discordjs,telegram,revolt" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,opensource,discord,discordjs,telegram,revolt" width="60" height="60"/>
   </a>
 </p>
 
 ## Graphics and Design Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,fonts,svg" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=blender,fonts,svg" width="60" height="60"/>
   </a>
 </p>
 
 ## Other Development Tools
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=tor,raspberrypi,nginx,stripe,chrome,firefox,duckduckgo,echo,googleanalytics,markdown,bash,vim,chatgpt,hyprland,htop" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tor,raspberrypi,nginx,stripe,chrome,firefox,duckduckgo,echo,googleanalytics,markdown,bash,vim,chatgpt,hyprland,htop" width="60" height="60"/>
   </a>
 </p>
