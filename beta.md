@@ -1,7 +1,7 @@
 # Grouped Tools by Categories
 
 ## Programming Languages
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=perl" width="60" height="60" />
@@ -18,7 +18,7 @@
 </div>
 
 ## IDEs and Code Editors
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=idea" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pycharm" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=replit" width="60" height="60" />
@@ -31,7 +31,7 @@
 </div>
 
 ## Package Managers and Build Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=npm" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=yarn" width="60" height="60" />
@@ -42,7 +42,7 @@
 </div>
 
 ## Frameworks and Libraries
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nuxtjs" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="60" height="60" />
@@ -56,7 +56,7 @@
 </div>
 
 ## Databases
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="60" height="60" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" width="60" height="60" />
