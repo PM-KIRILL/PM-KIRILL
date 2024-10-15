@@ -14,9 +14,10 @@
 
 ---
 
+<a name="russian-version"></a>
 <div id="russian-version">
 
-## 🌟 Основная информация
+## 🌟 Основная информация 🇷🇺
 
 - **👤 Никнейм:** PM-Кирилл
 - **📛 Имя:** Кирилл
@@ -50,7 +51,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)
 
@@ -112,9 +113,10 @@
 
 </div>
 
+<a name="english-version"></a>
 <div id="english-version">
 
-## 🌟 Main Information
+## 🌟 Main Information 🇬🇧
 
 - **👤 Nickname:** PM-Kirill
 - **📛 Name:** Kirill
@@ -148,7 +150,7 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=Kotlin&logoColor=white&style=for-the-badge)
 
