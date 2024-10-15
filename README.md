@@ -16,7 +16,7 @@
 - Я также увлечен Arduino и работаю над инструментом для фишинга под названием EspPortal v3. [Progress: ~40%].
 
 <h2> My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href="https://www.java.com" target="_blank"> 
+ 
 ## Programming Languages
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="60" height="60" />
@@ -82,12 +82,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redis" width="60" height="60" />
 </div>
 
-
-<td>
-                <a href="https://github.com/PM-KIRILL">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PM-KIRILL&langs_count=10&title_color=f97316&text_color=a855f7&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-                </a>
-            </td>
 
 ### Connect with me:
 - [Dev.to](https://dev.to/pmkirill)
