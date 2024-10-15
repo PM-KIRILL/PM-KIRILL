@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to PM-Kirill's Profile! 🎉</h1>
+<h1 align="center">Welcome to PM-Kirill's Profile! 🎉</h1>
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-<h2 align="center">My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"></h2>
+<h2 align="center">My Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"></h2>
 
 ### Programming Languages
 <div align="center">
@@ -92,6 +92,86 @@
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlite" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=redis" width="60" height="60"></a>
+</div>
+
+---
+
+### Cloud and DevOps Tools
+<div align="center">
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=azure" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=terraform" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=ngrok" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=heroku" width="60" height="60"></a>
+</div>
+
+---
+
+### Operating Systems and System Tools
+<div align="center">
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=ubuntu" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=arch" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=debian" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=kali" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=gnome" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=kde" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=proxmox" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=wsl" width="60" height="60"></a>
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=terminal" width="60" height="60"></a>
+</div>
+
+---
+
+### Version Control and Collaboration
+<div align="center">
+  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="60" height="60"></a>
+  <a href="https://github.com/PM-Kirill"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="60" height="60"></a>
+  <a href="https://opensource.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=opensource" width="60" height="60"></a>
+  <a href="https://discordapp.com/users/1081189420780240917/"><img src="https://go-skill-icons.vercel.app/api/icons?i=discord" width="60" height="60"></a>
+  <a href="https://discord.js.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=discordjs" width="60" height="60"></a>
+  <a href="https://telegram.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="60" height="60"></a>
+  <a href="https://revolt.chat/"><img src="https://go-skill-icons.vercel.app/api/icons?i=revolt" width="60" height="60"></a>
+</div>
+
+---
+
+### Graphics and Design Tools
+<div align="center">
+  <a href="https://www.blender.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=blender" width="60" height="60"></a>
+  <a href="https://fonts.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=fonts" width="60" height="60"></a>
+  <a href="https://www.w3.org/Graphics/SVG/"><img src="https://go-skill-icons.vercel.app/api/icons?i=svg" width="60" height="60"></a>
+</div>
+
+---
+
+### Other Development Tools
+<div align="center">
+  <a href="https://www.torproject.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=tor" width="60" height="60"></a>
+  <a href="https://www.raspberrypi.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="60" height="60"></a>
+  <a href="https://www.nginx.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="60" height="60"></a>
+  <a href="https://stripe.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" width="60" height="60"></a>
+  <a href="https://www.google.com/chrome/"><img src="https://go-skill-icons.vercel.app/api/icons?i=chrome" width="60" height="60"></a>
+  <a href="https://www.mozilla.org/firefox/"><img src="https://go-skill-icons.vercel.app/api/icons?i=firefox" width="60" height="60"></a>
+  <a href="https://duckduckgo.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=duckduckgo" width="60" height="60"></a>
+  <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=echo" width="60" height="60"></a>
+  <a href="https://analytics.google.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=googleanalytics" width="60" height="60"></a>
+  <a href="https://www.markdownguide.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=markdown" width="60" height="60"></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="60" height="60"></a>
+  <a href="https://www.vim.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=vim" width="60" height="60"></a>
+  <a href="https://chat.openai.com/"><img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="60" height="60"></a>
+  <a href="https://hyprland.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyprland" width="60" height="60"></a>
+  <a href="https://htop.dev/"><img src="https://go-skill-icons.vercel.app/api/icons?i=htop" width="60" height="60"></a>
 </div>
 
 ---
@@ -101,8 +181,8 @@
 - [YouTube](https://www.youtube.com/c/pm-kirill)
 - [Discord](https://discordapp.com/users/1081189420780240917/)
 
-Thanks to [Jetbrains](https://www.jetbrains.com/?from=inputmask) for providing a free license for their excellent Webstorm IDE.  
-<a href="https://www.jetbrains.com/?from=inputmask"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="Jetbrains" width="100"></a>
+Thanks to [JetBrains](https://www.jetbrains.com/?from=inputmask) for providing a free license for their excellent WebStorm IDE.  
+<a href="https://www.jetbrains.com/?from=inputmask"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="JetBrains" width="100"></a>
 
 ---
 
