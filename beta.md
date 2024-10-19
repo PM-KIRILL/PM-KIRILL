@@ -1,128 +1,132 @@
-<h1 align="center" style="font-size: 3em; color: #FF6347;">🎉 Welcome to PM-Kirill's Profile! 🎉</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FF8C00&center=true&vCenter=true&width=600&height=60&lines=Добро+пожаловать+в+профиль+PM-Kirill!+🎉" alt="Приветствие">
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Animated Hello" width="400" height="auto">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer"/>
 </p>
 
 ---
 
-### 👤 **Main Information**
+### 📝 Основная информация
+
+- **👤 Никнейм:** PM-Kirill
+- **📛 Имя:** Кирилл
+- **🎂 День рождения:** 30 июня
+- **🌐 Языки:** Русский и Английский
+- **🇧🇾 Страна:** Беларусь
+
+---
+
+### 💡 FAQ
+
+- 🤖 **Создаю Discord-ботов**.
+- 💻 **Я разработчик на трёх хостинг-платформах** и создал свои собственные: PM-Nodes и CoreNodes.
+  - [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Закрыт)
+  - [CoreNodes](https://corenodes.host) (Заморожен 😢)
+  - [Baget-inc](https://baget-inc.online) (Закрыт)
+  - [Deplos](https://deplos.com) (Открыт)
+- 🛠️ Увлекаюсь работой с **Arduino** и разрабатываю фишинговый инструмент **EspPortal v3**. [Прогресс: ~40%].
+
+---
+
+### 💼 Проекты
+
+- [**Project1**](https://github.com/PM-KIRILL/Project1): Краткое описание проекта 1.
+- [**Project2**](https://github.com/PM-KIRILL/Project2): Краткое описание проекта 2.
+- [**Project3**](https://github.com/PM-KIRILL/Project3): Краткое описание проекта 3.
+
+---
+
+<h2 align="center">🛠️ Мои навыки</h2>
+
 <div align="center">
 
-| **Property**      | **Details**                  |
-|-------------------|------------------------------|
-| **🆔 Nickname:**   | PM-Kirill                    |
-| **📛 Name:**       | Kirill                       |
-| **🎂 Birthday:**   | 30 June                      |
-| **🌐 Languages:**  | Russian, English             |
-| **🇧🇾 Country:**   | Belarus                      |
+#### Языки программирования
+
+<a href="#"><img src="https://skillicons.dev/icons?i=js,java,perl,python,rust,ts,php,cpp,css,html,lua,kotlin,c&theme=dark" /></a>
+
+#### IDE и редакторы кода
+
+<a href="#"><img src="https://skillicons.dev/icons?i=idea,pycharm,replit,visualstudio,vscode,neovim,androidstudio&theme=dark" /></a>
+
+#### Пакетные менеджеры и сборщики
+
+<a href="#"><img src="https://skillicons.dev/icons?i=npm,pnpm,yarn,vercel,vite,terraform&theme=dark" /></a>
+
+#### Фреймворки и библиотеки
+
+<a href="#"><img src="https://skillicons.dev/icons?i=jquery,nuxtjs,react,vue,threejs,tailwind,django,dotnet,electron&theme=dark" /></a>
+
+#### Базы данных
+
+<a href="#"><img src="https://skillicons.dev/icons?i=postgresql,sqlite,oracle,mongodb,mysql,redis&theme=dark" /></a>
+
+#### Облако и DevOps
+
+<a href="#"><img src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,jenkins,githubactions,githubpages,terraform,ngrok,heroku&theme=dark" /></a>
+
+#### Операционные системы и инструменты
+
+<a href="#"><img src="https://skillicons.dev/icons?i=ubuntu,windows,archlinux,debian,linux,kali,raspberrypi,windows&theme=dark" /></a>
+
+#### Контроль версий и сотрудничество
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,github,discord,telegram&theme=dark" /></a>
+
+#### Графика и дизайн
+
+<a href="#"><img src="https://skillicons.dev/icons?i=blender&theme=dark" /></a>
+
+#### Другие инструменты
+
+<a href="#"><img src="https://skillicons.dev/icons?i=tor,nginx,stripe,chrome,firefox,bash,vim,chatgpt&theme=dark" /></a>
 
 </div>
 
 ---
 
-<h2 align="center" style="font-size: 2.5em; color: #4682B4;">Frequently Asked Questions (FAQ) 🤔</h2>
+### 📈 Статистика GitHub
 
-- **🤖 I create Discord bots**, enhancing server experience and automation.
-- **💻 Developer on 3 hosting platforms**, including creating my own:
-  - 🚫 [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Closed)
-  - ❄️ [CoreNodes](https://corenodes.host) (Frozen)
-  - 🏁 [Baget-inc](https://baget-inc.online) (Closed)
-  - 🔥 [Deplos](https://deplos.com) (Open)
-- **🛠️ Arduino enthusiast** working on projects like **EspPortal v3** (Progress: ~40%).
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #FFD700;">My Skills 💻</h2>
-
-### 🧑‍💻 Programming Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,perl,python,rust,ts,php,cpp,css,html,lua,kotlin,c" alt="Languages" style="max-width: 100%;">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PM-KIRILL&show_icons=true&theme=dark&icon_color=FF8C00&title_color=FF8C00&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PM-KIRILL&theme=dark&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
 
-<h2 align="center" style="font-size: 2.5em; color: #ADFF2F;">IDEs & Editors</h2>
+### 🌐 Связаться со мной
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,replit,vscode,notepadpp,neovim,atom,androidstudio" alt="IDEs & Editors" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #FF4500;">Frameworks & Libraries</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,threejs,tailwind,django,dotnet,jquery,electron" alt="Frameworks & Libraries" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #FF6347;">Cloud & DevOps Tools 🌩️</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,gcp,docker,kubernetes,terraform,githubactions,jenkins,ngrok" alt="DevOps Tools" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #1E90FF;">Version Control & Collaboration</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,discord,telegram" alt="Version Control" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #6A5ACD;">Operating Systems & System Tools</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,ubuntu,arch,debian,kali" alt="Operating Systems" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #32CD32;">Databases</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,oracle,sqlite" alt="Databases" style="max-width: 100%;">
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #FF1493;">Connect with Me 🌐</h2>
-
-<div align="center">
-  <a href="https://dev.to/pmkirill"><img src="https://img.shields.io/badge/Dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
-  <a href="https://www.youtube.com/c/pm-kirill"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://discordapp.com/users/1081189420780240917/"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</div>
-
----
-
-<h2 align="center" style="font-size: 2.5em; color: #FFA07A;">Support Me 💸</h2>
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/PM-Kirill"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
-</div>
+- [Dev.to](https://dev.to/pmkirill)
+- [YouTube](https://www.youtube.com/c/pm-kirill)
+- [Discord](https://discordapp.com/users/1081189420780240917/)
 
 ---
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wwplzbvn26xo6msimnxpmzrvou&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wwplzbvn26xo6msimnxpmzrvou&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=FF8C00&bar_color_cover=false" alt="Spotify Now Playing" />
 </div>
 
-<p align="center">Number of profile views:<br><img src="https://profile-counter.glitch.me/PM-Kirill/count.svg"></p>
+---
+
+### ☕ Поддержать меня
+
+[<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/PM-Kirill)
 
 ---
 
 <div align="center">
-  <img src="https://www.jetbrains.com/company/brand/logos/jb_beam.svg" alt="JetBrains" width="100">
-  <p>Thanks to <a href="https://www.jetbrains.com/?from=inputmask">JetBrains</a> for providing free licenses for their awesome IDEs!</p>
+  <p>Количество просмотров профиля:</p>
+  <img src="https://komarev.com/ghpvc/?username=PM-KIRILL&style=flat-square&color=FF8C00" alt="Просмотры">
 </div>
 
 ---
 
 <p align="center">
-  <img src="footer.webp" alt="Footer" style="width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=100&section=footer"/>
 </p>
+
+---
+
+Спасибо [JetBrains](https://www.jetbrains.com/?from=inputmask) за предоставление бесплатной лицензии на их отличный IDE WebStorm.  
+<a href="https://www.jetbrains.com/?from=inputmask"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.png" alt="JetBrains" width="100"></a>
