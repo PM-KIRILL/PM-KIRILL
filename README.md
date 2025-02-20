@@ -17,7 +17,7 @@
   - [PM-Nodes](https://discord.gg/QxKUVvC98Z) (Closed)
   - [CoreNodes](https://corenodes.host) (Frozen 😢)
   - [Baget-inc](https://baget-inc.online) (Closed)
-  - [Deplos](https://deplos.com) (Open)
+  - [Deplos](https://deplos.com) (Closed)
 - 🛠️ I also enjoy working with **Arduino** and developing a phishing tool called **EspPortal v3**. [Progress: ~40%].
 
 ---
