@@ -36,7 +36,6 @@
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="60" height="60"></a>
-  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=c" width="60" height="60"></a>
 </div>
