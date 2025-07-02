@@ -28,7 +28,6 @@
 <div align="center">
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=java" width="60" height="60"></a>
-  <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=perl" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=rust" width="60" height="60"></a>
   <a href="https://pm-kirill.fun"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="60" height="60"></a>
