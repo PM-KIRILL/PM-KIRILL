@@ -188,7 +188,7 @@ Thanks to [JetBrains](https://www.jetbrains.com/?from=inputmask) for providing a
   <p align="left">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31wwplzbvn26xo6msimnxpmzrvou&redirect=true&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
   </p>
-  <p>Number of profile views:<br><img src="https://profile-counter.glitch.me/PM-Kirill/count.svg"></p>
+  [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PM-KIRILL&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff7700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
