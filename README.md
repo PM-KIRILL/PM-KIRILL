@@ -152,7 +152,7 @@
 
 ---
 
-### Other Development Tools
+### Other
 <div align="center">
   <a href="https://www.torproject.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=tor" width="60" height="60"></a>
   <a href="https://www.raspberrypi.org/"><img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi" width="60" height="60"></a>
